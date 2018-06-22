@@ -20,5 +20,5 @@ gem 'aws-sdk', '~> 1.20.0'
 gem 'simple_form', '~> 3.0.2'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring'        
-gem 'pg', '~> 1.0.0'
+gem 'pg', '~> 0.11'
 gem 'rails_12factor'
