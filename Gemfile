@@ -19,12 +19,6 @@ gem 'acts_as_votable', '~> 0.10.0'
 gem 'aws-sdk', '~> 1.20.0'
 gem 'simple_form', '~> 3.0.2'
 gem 'sdoc', '~> 0.4.0',          group: :doc
-gem 'spring',        group: :development
-group :development, :test do
-     gem 'sqlite3'
-end
-
-group :production do
-     gem 'pg'
-     gem 'rails_12factor'
-end
+gem 'spring'        
+gem 'pg'
+gem 'rails_12factor'
