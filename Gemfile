@@ -16,7 +16,7 @@ gem 'bootstrap-sass', '~> 3.2.0'
 gem 'json', '~>1.8.1'
 gem 'masonry-rails', '~> 0.2.1'
 gem 'acts_as_votable', '~> 0.10.0'
-gem 'aws-sdk', '~> 1.20.0'
+gem 'aws-sdk', '~> 1.27.0'
 gem 'simple_form', '~> 3.0.2'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
